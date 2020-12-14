@@ -1,10 +1,30 @@
 .app{
     margin:20px blue solid;
+    border:5px blue solid;
 
 }
 
 .btn-group{
+   border:5px grey solid;
     margin-left: 85%;
     margin: 5px blue solid;
 }
 
+.slice{
+    border:5px indigo solid;
+    height: 360px;
+    width: 50%;   
+}
+
+.columna{
+    border:5px teal solid;
+    height: 360px;
+    width: 50%;
+}
+
+.Contenedor2{
+    border:5px teal solid;
+    align-items: start;
+    height: 360px;
+    width: 50%;
+}
